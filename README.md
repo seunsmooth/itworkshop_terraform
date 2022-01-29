@@ -1,9 +1,20 @@
 # itworkshop_terraform
 
+
+/Users/oawoga/.terraform.d/credentials.tfrc.json
+
+   $ git clone https://github.com/hashicorp/tfc-getting-started.git
+   $ cd tfc-getting-started
+   $ scripts/setup.sh
+
+
+
 Terraform:
+erraform is cloud-agnostic and allows a single configuration to be used to manage multiple providers, and to even handle cross-cloud dependencies. This simplifies management and orchestration, helping operators build large-scale multi-cloud infrastructures.
     prerequisite:
     --------------
     Install Terraform :-  https://learn.hashicorp.com/tutorials/terraform/install-cli
+                          https://www.terraform.io/downloads
  
     Install aws cli:- 	https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
  
